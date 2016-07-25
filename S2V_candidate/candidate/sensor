@@ -1,0 +1,65 @@
+ACPI_POWER_STATE | 0x0        | discrete   | 0x2080| na        | na        | na        | na        | na        | na        
+BMC_INTERNAL_WD  | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU0             | 0x0        | discrete   | 0x8080| na        | na        | na        | na        | na        | na        
+CPU_DIMM HOT     | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+CPU_DIMM VRHOT   | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+IPMI Chassis Cmd | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+LAN_LEASH_LOST   | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+SYSTEM_EVENT_LOG | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+WATCHDOG         | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+CPU_0_DIMM_A0    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_A1    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_B0    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_B1    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_C0    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_C1    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_D0    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DIMM_D1    | na         | degrees C  | na    | na        | 0.000     | na        | na        | 86.000    | na        
+CPU_0_DTS_TEMP   | na         | degrees C  | na    | na        | -100.000  | -95.000   | -1.000    | 0.000     | na        
+CPU_0_PECI_TEMP  | na         | degrees C  | na    | na        | 0.000     | 5.000     | 99.000    | 100.000   | na        
+SYS_AMB_TEMP_0   | 28.000     | degrees C  | ok    | na        | 0.000     | na        | na        | 43.000    | na        
+SYS_AMB_TEMP_1   | 27.000     | degrees C  | ok    | na        | 0.000     | na        | na        | 43.000    | na        
+SYS_PCH_TEMP     | na         | degrees C  | na    | na        | 0.000     | na        | na        | 96.000    | na        
+SYS_CPU0_VR_TEMP | na         | degrees C  | na    | na        | 0.000     | na        | na        | 100.000   | na        
+SYS_AB_VR_TEMP   | na         | degrees C  | na    | na        | 0.000     | na        | na        | 100.000   | na        
+SYS_CD_VR_TEMP   | na         | degrees C  | na    | na        | 0.000     | na        | na        | 100.000   | na        
+PSU_CURRENT_IN   | na         | Amps       | na    | na        | na        | na        | na        | 7.990     | na        
+PSU_IOUT_12V1    | na         | Amps       | na    | na        | na        | na        | na        | 33.020    | na        
+PSU_IOUT_12V2    | na         | Amps       | na    | na        | na        | na        | na        | 33.020    | na        
+PSU_IOUT_3.3V    | na         | Amps       | na    | na        | na        | na        | na        | 20.000    | na        
+PSU_IOUT_5V      | na         | Amps       | na    | na        | na        | na        | na        | 23.954    | na        
+PSU_POWER_IN     | na         | Watts      | na    | na        | na        | na        | na        | 650.000   | na        
+PSU_POWER_OUT    | na         | Watts      | na    | na        | na        | na        | na        | 500.000   | na        
+PSU_STATUS       | 0x0        | discrete   | 0x0080| na        | na        | na        | na        | na        | na        
+PSU_VOLTAGE_IN   | na         | Volts      | na    | na        | 90.000    | na        | na        | 264.000   | na        
+PSU_VOUT_12V1    | na         | Volts      | na    | na        | 11.400    | na        | na        | 12.600    | na        
+PSU_VOUT_12V2    | na         | Volts      | na    | na        | 11.400    | na        | na        | 12.600    | na        
+PSU_VOUT_3.3V    | na         | Volts      | na    | na        | 3.135     | na        | na        | 3.465     | na        
+PSU_VOUT_5V      | na         | Volts      | na    | na        | 4.750     | na        | na        | 5.250     | na        
+PSU_FAN_0        | na         | RPM        | na    | na        | 1650.000  | na        | na        | na        | na        
+PSU_TEMP_0       | na         | degrees C  | na    | na        | 0.000     | na        | na        | 60.000    | na        
+SYS_AIRFLOW      | na         | CFM        | na    | na        | na        | na        | na        | na        | na        
+SYS_AIRFLOW_EFF  | na         | CFM/Watts  | na    | na        | na        | na        | na        | na        | na        
+SYS_FAN_0_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_0_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_1_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_1_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_2_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_2_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_3_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_3_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_4_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_4_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_5_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_5_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_6_0      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_FAN_6_1      | na         | RPM        | na    | na        | 500.000   | na        | na        | na        | na        
+SYS_V1.2_DIMM_AB | na         | Volts      | na    | na        | 1.080     | na        | na        | 1.320     | na        
+SYS_V1.2_DIMM_CD | na         | Volts      | na    | na        | 1.080     | na        | na        | 1.320     | na        
+SYS_V1.8_CPU_0   | na         | Volts      | na    | na        | 1.350     | na        | na        | 1.980     | na        
+SYS_V12          | na         | Volts      | na    | na        | 10.800    | na        | na        | 13.200    | na        
+SYS_V3.3         | na         | Volts      | na    | na        | 2.973     | na        | na        | 3.625     | na        
+SYS_V3.3_AUX     | 3.323      | Volts      | ok    | na        | 2.973     | na        | na        | 3.625     | na        
+SYS_V3.3_Battery | 3.277      | Volts      | ok    | na        | 2.639     | na        | na        | 3.567     | na        
+SYS_V5           | na         | Volts      | na    | na        | 4.501     | na        | na        | 5.493     | na        
+SYS_V5_AUX       | 4.937      | Volts      | ok    | na        | 4.501     | na        | na        | 5.493     | na        
